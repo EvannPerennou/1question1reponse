@@ -1,0 +1,24 @@
+body {
+  background-color: #FF0000;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fond_blanc.svg/640px-Fond_blanc.svg.png");
+  background-attachment: fixed;
+  background-repeat: repeat-y;
+  background-size: 1300px;
+  background-position: 50% 50%;
+}
+
+h1 {
+		color: #ffffff;
+		background-color: #FC9804;
+}
+
+p {
+		text-align: center;
+}
+
+a:hover {
+		text-transform: uppercase;
+		font-weight:bold;
+		color:blue;
+		background-color:yellow;
+	}
